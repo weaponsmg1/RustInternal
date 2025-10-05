@@ -15,4 +15,4 @@ Use manual map injector
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/82a4a129-3692-4a71-a26a-c3beea689de2" />
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1f624344-ab08-4c3e-bfc5-348416d88888" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6644519b-1be6-44b9-b049-dd1948c0855b" />
